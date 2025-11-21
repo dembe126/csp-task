@@ -1,0 +1,62 @@
+Schedule Log
+====================
+Total matches: 12
+
+Matches by slot (ascending):
+
+Slot 3:
+  D vs A
+  D vs B
+  D vs C
+
+Slot 4:
+  A vs C
+  B vs A
+  B vs C
+
+Slot 8:
+  A vs D
+  C vs D
+
+Slot 9:
+  B vs D
+
+Slot 10:
+  A vs B
+  C vs A
+  C vs B
+
+
+Team-wise schedule:
+
+A:
+  slot 3: away vs D
+  slot 4: away vs B
+  slot 4: home vs C
+  slot 8: home vs D
+  slot 10: away vs C
+  slot 10: home vs B
+
+B:
+  slot 3: away vs D
+  slot 4: home vs A
+  slot 4: home vs C
+  slot 9: home vs D
+  slot 10: away vs A
+  slot 10: away vs C
+
+C:
+  slot 3: away vs D
+  slot 4: away vs A
+  slot 4: away vs B
+  slot 8: home vs D
+  slot 10: home vs A
+  slot 10: home vs B
+
+D:
+  slot 3: home vs A
+  slot 3: home vs B
+  slot 3: home vs C
+  slot 8: away vs A
+  slot 8: away vs C
+  slot 9: away vs B
